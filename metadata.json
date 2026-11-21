@@ -1,0 +1,6 @@
+{
+  "name": "E-Takwim SK Timbang 2027",
+  "description": "Sistem Takwim Persekolahan Masa Nyata 2027 bagi 30 Guru SK Timbang Kota Belud Sabah dengan Kalendar KPM Kumpulan B dan Pengurusan Akses Peranan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
